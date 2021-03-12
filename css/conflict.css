@@ -1,0 +1,34 @@
+body{
+	font-family: sans-serif;
+	color: red;
+	background-color: green;
+	font-size: 12px;
+}
+
+table
+{
+	border-collapse: collapse;
+	font-size: 12px;
+	margin: 10px 20px 20px 20px;
+	border-top:2px solid #ccc;
+	width: 480px; 
+}
+
+th
+{
+	border-bottom: 2px solid red;
+	font-size: 14px;
+	color: blue;
+	font-weight: normal;
+	text-align: left;
+	padding: 3px 8px;
+}
+td{
+	padding: 6px;
+}
+.odd{
+	background-color: ivory;
+}
+.even{
+	background-color: #ccc;
+}

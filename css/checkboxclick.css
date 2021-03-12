@@ -1,0 +1,14 @@
+body
+{
+	font-family: Verdana;
+	font-size: 13px;
+
+}
+#content_pane
+{
+	width: 400px;
+	margin: 0 auto;
+	overflow: hidden;
+	border:1px solid #ccc;
+	padding: 10px;
+}
